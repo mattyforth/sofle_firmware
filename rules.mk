@@ -1,0 +1,9 @@
+//ENCODER_MAP_ENABLE = yes
+
+CONVERT_TO=helios
+
+CAPS_WORD_ENABLE = yes
+
+CONSOLE_ENABLE = yes
+
+NKRO_ENABLE = yes
