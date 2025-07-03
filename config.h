@@ -24,9 +24,10 @@
 #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
 
 #define PERMISSIVE_HOLD
-#define HOLD_ON_OTHER_KEY_PRESS_PER_KEY
+// #define HOLD_ON_OTHER_KEY_PRESS_PER_KEY
 /*#define HOLD_ON_OTHER_KEY_PRESS*/
-#define TAPPING_TERM 200
+#define TAPPING_TERM 150
+// #define TAPPING_TERM_PER_KEY
 
 // Allow transitioning quickly from tap to hold
 #define QUICK_TAP_TERM 0
